@@ -1,0 +1,200 @@
+{
+  "pine-cedar": {
+    "hero": "/images/pine-cedar/hero.jpeg",
+    "categories": {
+      "backgarden": {
+        "label": "backgarden",
+        "images": [
+          "/images/pine-cedar/backgarden/backgarden-1.avif",
+          "/images/pine-cedar/backgarden/backgarden-2.avif",
+          "/images/pine-cedar/backgarden/backgarden-3.avif"
+        ]
+      },
+      "balcony": {
+        "label": "Balcony",
+        "images": [
+          "/images/pine-cedar/balcony/balcony-1.jpg",
+          "/images/pine-cedar/balcony/balcony-2.jpg",
+          "/images/pine-cedar/balcony/balcony-3.jpg",
+          "/images/pine-cedar/balcony/balcony-4.jpg",
+          "/images/pine-cedar/balcony/balcony-5.jpg",
+          "/images/pine-cedar/balcony/balcony-6.jpg",
+          "/images/pine-cedar/balcony/balcony-7.jpg",
+          "/images/pine-cedar/balcony/balcony-8.jpg"
+        ]
+      },
+      "bathroom": {
+        "label": "Bathroom",
+        "images": [
+          "/images/pine-cedar/bathroom/bathroom-1.jpg",
+          "/images/pine-cedar/bathroom/bathroom-2.jpg",
+          "/images/pine-cedar/bathroom/bathroom-3.jpg",
+          "/images/pine-cedar/bathroom/bathroom-4.jpg",
+          "/images/pine-cedar/bathroom/bathroom-5.jpg",
+          "/images/pine-cedar/bathroom/bathroom-6.jpg",
+          "/images/pine-cedar/bathroom/bathroom-7.jpg",
+          "/images/pine-cedar/bathroom/bathroom-8.jpg"
+        ]
+      },
+      "bedroom": {
+        "label": "Bedroom",
+        "images": [
+          "/images/pine-cedar/bedroom/bedroom-1.jpg",
+          "/images/pine-cedar/bedroom/bedroom-2.jpg",
+          "/images/pine-cedar/bedroom/bedroom-3.jpg",
+          "/images/pine-cedar/bedroom/bedroom-4.jpg",
+          "/images/pine-cedar/bedroom/bedroom-5.jpg"
+        ]
+      },
+      "exterior": {
+        "label": "Exterior",
+        "images": [
+          "/images/pine-cedar/exterior/exterior-1.jpg",
+          "/images/pine-cedar/exterior/exterior-2.jpg",
+          "/images/pine-cedar/exterior/exterior-3.jpg"
+        ]
+      },
+      "hot-tub": {
+        "label": "Hot Tub",
+        "images": [
+          "/images/pine-cedar/hot-tub/hot-tub-1.jpg",
+          "/images/pine-cedar/hot-tub/hot-tub-2.jpg",
+          "/images/pine-cedar/hot-tub/hot-tub-3.jpg",
+          "/images/pine-cedar/hot-tub/hot-tub-4.jpg",
+          "/images/pine-cedar/hot-tub/hot-tub-5.jpg",
+          "/images/pine-cedar/hot-tub/hot-tub-6.jpg",
+          "/images/pine-cedar/hot-tub/hot-tub-7.jpg"
+        ]
+      },
+      "living-room": {
+        "label": "Living Room",
+        "images": [
+          "/images/pine-cedar/living-room/living-room-1.png",
+          "/images/pine-cedar/living-room/living-room-2.png",
+          "/images/pine-cedar/living-room/living-room-3.png",
+          "/images/pine-cedar/living-room/living-room-4.png"
+        ]
+      }
+    }
+  },
+  "valley-view-maple": {
+    "hero": "/images/valley-view-maple/hero.jpeg",
+    "categories": {
+      "balcony": {
+        "label": "Balcony",
+        "images": [
+          "/images/valley-view-maple/balcony/balcony-1.jpg",
+          "/images/valley-view-maple/balcony/balcony-2.jpg",
+          "/images/valley-view-maple/balcony/balcony-3.jpg",
+          "/images/valley-view-maple/balcony/balcony-4.jpg"
+        ]
+      },
+      "bathroom": {
+        "label": "Bathroom",
+        "images": [
+          "/images/valley-view-maple/bathroom/bathroom-1.jpg",
+          "/images/valley-view-maple/bathroom/bathroom-2.jpg",
+          "/images/valley-view-maple/bathroom/bathroom-3.jpg"
+        ]
+      },
+      "bedroom": {
+        "label": "Bedroom",
+        "images": [
+          "/images/valley-view-maple/bedroom/bedroom-1.jpg",
+          "/images/valley-view-maple/bedroom/bedroom-2.jpg",
+          "/images/valley-view-maple/bedroom/bedroom-3.jpg",
+          "/images/valley-view-maple/bedroom/bedroom-4.jpg",
+          "/images/valley-view-maple/bedroom/bedroom-5.jpg",
+          "/images/valley-view-maple/bedroom/bedroom-6.jpg",
+          "/images/valley-view-maple/bedroom/bedroom-7.jpg"
+        ]
+      },
+      "exterior": {
+        "label": "Exterior",
+        "images": [
+          "/images/valley-view-maple/exterior/exterior-1.avif",
+          "/images/valley-view-maple/exterior/exterior-2.avif",
+          "/images/valley-view-maple/exterior/exterior-3.avif"
+        ]
+      },
+      "hot-tub": {
+        "label": "Hot tub",
+        "images": [
+          "/images/valley-view-maple/hot-tub/hot-tub-1.jpg",
+          "/images/valley-view-maple/hot-tub/hot-tub-2.jpg",
+          "/images/valley-view-maple/hot-tub/hot-tub-3.jpg",
+          "/images/valley-view-maple/hot-tub/hot-tub-4.jpg",
+          "/images/valley-view-maple/hot-tub/hot-tub-5.jpg",
+          "/images/valley-view-maple/hot-tub/hot-tub-6.jpg"
+        ]
+      },
+      "living-room": {
+        "label": "Living Room",
+        "images": [
+          "/images/valley-view-maple/living-room/living-room-1.jpg",
+          "/images/valley-view-maple/living-room/living-room-2.jpg",
+          "/images/valley-view-maple/living-room/living-room-3.jpg",
+          "/images/valley-view-maple/living-room/living-room-4.jpg"
+        ]
+      }
+    }
+  },
+  "premium-magnolia": {
+    "hero": "/images/premium-magnolia/hero.jpeg",
+    "categories": {
+      "balcony": {
+        "label": "Balcony",
+        "images": [
+          "/images/premium-magnolia/balcony/balcony-1.jpg",
+          "/images/premium-magnolia/balcony/balcony-2.jpg",
+          "/images/premium-magnolia/balcony/balcony-3.jpg",
+          "/images/premium-magnolia/balcony/balcony-4.jpg",
+          "/images/premium-magnolia/balcony/balcony-5.jpg"
+        ]
+      },
+      "bathroom": {
+        "label": "Bathroom",
+        "images": [
+          "/images/premium-magnolia/bathroom/bathroom-1.avif",
+          "/images/premium-magnolia/bathroom/bathroom-2.avif",
+          "/images/premium-magnolia/bathroom/bathroom-3.avif",
+          "/images/premium-magnolia/bathroom/bathroom-4.avif"
+        ]
+      },
+      "bedroom": {
+        "label": "Bedroom",
+        "images": [
+          "/images/premium-magnolia/bedroom/bedroom-1.avif",
+          "/images/premium-magnolia/bedroom/bedroom-2.avif",
+          "/images/premium-magnolia/bedroom/bedroom-3.avif",
+          "/images/premium-magnolia/bedroom/bedroom-4.avif",
+          "/images/premium-magnolia/bedroom/bedroom-5.avif",
+          "/images/premium-magnolia/bedroom/bedroom-6.avif",
+          "/images/premium-magnolia/bedroom/bedroom-7.avif",
+          "/images/premium-magnolia/bedroom/bedroom-8.avif"
+        ]
+      },
+      "exterior": {
+        "label": "Exterior",
+        "images": [
+          "/images/premium-magnolia/exterior/exterior-1.png",
+          "/images/premium-magnolia/exterior/exterior-2.png"
+        ]
+      },
+      "living-room": {
+        "label": "Living Room",
+        "images": [
+          "/images/premium-magnolia/living-room/living-room-1.jpg",
+          "/images/premium-magnolia/living-room/living-room-2.jpg",
+          "/images/premium-magnolia/living-room/living-room-3.jpg",
+          "/images/premium-magnolia/living-room/living-room-4.jpg",
+          "/images/premium-magnolia/living-room/living-room-5.jpg",
+          "/images/premium-magnolia/living-room/living-room-6.jpg",
+          "/images/premium-magnolia/living-room/living-room-7.jpg",
+          "/images/premium-magnolia/living-room/living-room-8.jpg",
+          "/images/premium-magnolia/living-room/living-room-9.jpg"
+        ]
+      }
+    }
+  }
+}
