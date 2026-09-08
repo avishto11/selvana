@@ -1,4 +1,22 @@
-import imageManifest from "./imageManifest.json";
+import rawImageManifest from "./imageManifest.json";
+import { assetUrl } from "../lib/assetUrl";
+
+// public-folder paths in the manifest are root-relative and need the
+// configured base path prefixed (see src/lib/assetUrl.js).
+const imageManifest = Object.fromEntries(
+  Object.entries(rawImageManifest).map(([slug, entry]) => [
+    slug,
+    {
+      hero: assetUrl(entry.hero),
+      categories: Object.fromEntries(
+        Object.entries(entry.categories).map(([catSlug, cat]) => [
+          catSlug,
+          { ...cat, images: cat.images.map(assetUrl) },
+        ]),
+      ),
+    },
+  ]),
+);
 
 // Content sourced from "Property Details.docx". Pine & Cedar are a pair of
 // identical twin duplex chalets, sold and shown here as one cottage type.

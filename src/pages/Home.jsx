@@ -6,6 +6,7 @@ import { PROPERTIES } from "../data/properties";
 import { PACKAGES } from "../data/packages";
 import { TESTIMONIALS } from "../data/testimonials";
 import { SITE, EXPERIENCE_PILLARS, whatsappLink } from "../data/site";
+import { assetUrl } from "../lib/assetUrl";
 
 export default function Home() {
   return (
@@ -13,7 +14,7 @@ export default function Home() {
       {/* Hero */}
       <header id="home" className="relative h-[90vh] min-h-[600px] flex items-center justify-center">
         <div className="absolute inset-0 z-0">
-          <img src="/images/site/hero.jpg" alt="Selvana boutique cottage overlooking a snow-covered Jibhi valley" className="w-full h-full object-cover" />
+          <img src={assetUrl("/images/site/hero.jpg")} alt="Selvana boutique cottage overlooking a snow-covered Jibhi valley" className="w-full h-full object-cover" />
           <div className="absolute inset-0 bg-black/40" />
         </div>
         <div className="relative z-10 text-center px-4 w-full max-w-3xl mx-auto min-w-0 flex flex-col items-center gap-6">
@@ -48,7 +49,7 @@ export default function Home() {
             </p>
           </div>
           <div className="relative h-[420px] md:h-[500px] rounded-xl overflow-hidden shadow-sm shadow-primary/10">
-            <img src="/images/site/about.jpg" alt="Selvana cottage exterior amid snow-covered pines" className="w-full h-full object-cover" />
+            <img src={assetUrl("/images/site/about.jpg")} alt="Selvana cottage exterior amid snow-covered pines" className="w-full h-full object-cover" />
           </div>
         </div>
       </section>
